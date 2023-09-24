@@ -14,4 +14,6 @@ ROS kullanarak turtlebot3 ile kendi mesaj dosyalarımızı kullanarak python bet
 '''python
 Vector3 linear
 Vector3 angular
+float64 angle
+
 '''
