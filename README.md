@@ -11,6 +11,7 @@
 ROS kullanarak turtlebot3 ile kendi mesaj dosyalarımızı kullanarak python betiğinde eşkenar üçgen çizdirmek
 ### Msg Dosyaları
 - Ucgen.msg
-'''Vector3 linear
+'''python
+Vector3 linear
 Vector3 angular
 '''
