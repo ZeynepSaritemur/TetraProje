@@ -6,4 +6,12 @@
 - Robotun kırmızı bir küpün ağırlık merkezini kamerada göztermesini sağlamak
 
 
-## Eşkenar üçgen çizdirme projesi
+## Eşkenar Üçgen Çizdirme Projesi
+### Proje Tanımı
+ROS kullanarak turtlebot3 ile kendi mesaj dosyalarımızı kullanarak python betiğinde eşkenar üçgen çizdirmek
+### Msg Dosyaları
+- Ucgen.msg
+'''
+Vector3 linear
+Vector3 angular
+'''
